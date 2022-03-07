@@ -1,4 +1,5 @@
- ### Hi there 👋
+ ### Hi, I'm Rosaura  👋 👧 🖥️
+ ![girl-svgrepo-com](https://user-images.githubusercontent.com/78773811/157137327-63e31436-c0ef-4fd1-a2f0-5ba183a444c5.svg)
 
 <!--
 **rosauracotos/rosauracotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
