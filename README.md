@@ -1,6 +1,6 @@
  # Hola, mi nombre es Rosaura ![146005](https://user-images.githubusercontent.com/78773811/157145250-47de5cb1-0f40-4f37-96bb-2261301199fc.png)![H13cc5ebc088744cd8eacc34bde7988bcu png_300x300](https://user-images.githubusercontent.com/78773811/157145276-14beb34b-a561-4db6-8435-27540b991b7a.png)
 
-#### Soy front end developer enfocada en identificar las necesidades del usuario mediante el análisis detallado de los requerimientos que me proporcionan con el fin de dar una solución lógica, funcional y estética. Me considero una persona creativa, con iniciativa y adaptabilidad, además de autodidacta y con ganas de aprender.
+#### Soy Full Stack Developer Jr. enfocada en identificar las necesidades del usuario mediante el análisis detallado de los requerimientos que me proporcionan con el fin de dar una solución lógica, funcional y estética. Me considero una persona creativa, con iniciativa y adaptabilidad, además de autodidacta y con ganas de aprender.
 
  
  ## Tecnologías
